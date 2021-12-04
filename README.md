@@ -144,6 +144,8 @@
 2. 使用ScriptEngine加载JS：`--js -u`
 3. 使用Javac动态编译：`--javac -u`
 
+做了简单的原理和使用视频：[B站](https://space.bilibili.com/1106751850/channel/seriesdetail?sid=560683)
+
 ### 计划
 
 后续计划：
